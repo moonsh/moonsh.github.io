@@ -108,7 +108,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1020px;
+  width:860px;
   margin:0 auto;
 }
 
@@ -224,7 +224,7 @@ header ul a strong {
 }
 
 section {
-  width:700px;
+  width:500px;
   float:right;
   padding-bottom:50px;
 }
@@ -248,7 +248,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 760px) {
+@media print, screen and (max-width: 960px) {
 
   div.wrapper {
     width:auto;
@@ -283,7 +283,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 760px) {
+@media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
   }
@@ -301,7 +301,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 580px) {
+@media print, screen and (max-width: 480px) {
   body {
     padding:15px;
   }
