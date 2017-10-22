@@ -14,7 +14,7 @@
 
 @font-face {
   font-family: 'Noto Sans';
-  font-weight: 700;
+  font-weight: 800;
   font-style: normal;
   src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot');
   src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix') format('embedded-opentype'),
@@ -42,7 +42,7 @@
 
 @font-face {
   font-family: 'Noto Sans';
-  font-weight: 700;
+  font-weight: 800;
   font-style: italic;
   src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot');
   src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype'),
