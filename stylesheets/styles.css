@@ -108,7 +108,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:930px;
+  width:1020px;
   margin:0 auto;
 }
 
@@ -248,7 +248,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 760px) {
 
   div.wrapper {
     width:auto;
@@ -283,7 +283,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 760px) {
   body {
     word-wrap:break-word;
   }
