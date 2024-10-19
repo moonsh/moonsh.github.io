@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Fun Things</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <meta name="viewport" content="width=device-width">
+    <style>
+      /* Common grid styles for movies and comics */
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Flexible column size */
+        gap: 20px; /* Spacing between grid items */
+        justify-items: center; /* Center align grid items */
+        padding: 20px;
+      }
+
+      .grid-item {
+        text-align: center;
+      }
+
+      .grid-item img {
+        width: 100%;
+        max-width: 150px; /* Control the size of the image */
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      }
+
+      .grid-item p {
+        margin-top: 10px;
+        font-size: 14px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Fun Things</h1>
+        Title (Release year)-Enjoyed year.
+        Ratings <br>
+        <a href="index.html">Back to Home</a> <!-- Link to go back to main page -->
+      </header>
+
+      <!-- Movies Section -->
+      <section id="movies">
+        <h3>Movies</h3>
+        <div class="grid">
+          <div class="grid-item">
+            <img src="https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Movie Title 1">
+            <p>The Wild Robot (2024)-2024 </p>
+            <p>★★★★☆</p>
+          </div>
+          <div class="grid-item">
+            <img src="https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_.jpg" alt="Movie Title 2">
+            <p>Inside Out 2 (2024)-2024</p>
+            <p>★★★★</p>
+          </div>
+          <div class="grid-item">
+            <img src="https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg" alt="Movie Title 2">
+            <p>Dune: Part Two (2024)-2024</p>
+            <p>★★★★★</p>
+          </div>
+
+          <!-- Add more movies here -->
+        </div>
+      </section>
+
+      <!-- Comic Books Section -->
+      <section id="games">
+        <h3>Games</h3>
+        <div class="grid">
+          <div class="grid-item">
+            <img src="https://upload.wikimedia.org/wikipedia/en/7/72/Planet_of_Lana_cover_art.jpg" alt="Comic Title 1">
+            <p>Planet of Lana (2023)-2024</p>
+            <p>★★★★☆</p>
+          </div>
+          <div class="grid-item">
+            <img src="https://m.media-amazon.com/images/I/81+nZRC5SBL.jpg" alt="Comic Title 2">
+            <p>Super Mario Bros. Wonder (2024)-2024</p>
+            <p>★★★★</p>
+          </div>
+          <!-- Add more comics here -->
+        </div>
+      </section>
+
+      <!-- Movies Section -->
+      <section id="Concert">
+        <h3>Concerts</h3>
+        <div class="grid">
+          <div class="grid-item">
+            <img src="https://blog.way.com/wp-content/uploads/2022/02/Coldplay-Music-of-the-Spheres-819x1024.jpg" alt="Movie Title 1">
+            <p>Coldplay at MetLife (2022)-2022</p>
+            <p>★★★★★</p>
+          </div>
+
+    </div>
+  </body>
+</html>
