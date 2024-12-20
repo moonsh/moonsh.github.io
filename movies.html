@@ -35,6 +35,36 @@
         font-weight: bold;
       }
 
+      .grid-item img:hover + p {
+  color: blue; /* Optional styling for text when hovering */
+}      
+
+
+      .grid-item .hover-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.8); /* Dark transparent background */
+  color: white;
+  padding: 10px;
+  font-size: 12px;
+  border-radius: 0 0 10px 10px;
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s, transform 0.3s;
+}
+
+    .grid-item:hover .hover-description {
+      visibility: visible;
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+
+      
+
       /* Navigation link styles */
       .nav-links {
         margin-bottom: 20px;
@@ -114,6 +144,7 @@
           <div class="grid-item">
             <img src="https://m.media-amazon.com/images/M/MV5BMDg0Y2M2OGMtMTMyYy00MDA1LTg3NTctN2YxNTNmZWUxZGI1XkEyXkFqcGc@._V1_.jpg" alt="Movie Title 1">
             <p>Flow (2024)-2024 <br>★★★★</p>
+            <div class="hover-description">A visually stunning exploration of identity and transformation. </div>            
           </div>
           <div class="grid-item">
             <img src="https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Movie Title 1">
