@@ -316,8 +316,8 @@
   {
     "file": "ball-x-pit-2025-2025.jpg",
     "title": "Ball x Pit (2025)-2025",
-    "original_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/7cc45ff009f1edb5f59c11c07cbacc242106661f/capsule_616x353_alt_assets_2.jpg?t=1789453342",
-    "downloaded_from": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/7cc45ff009f1edb5f59c11c07cbacc242106661f/capsule_616x353_alt_assets_2.jpg?t=1789453342",
+    "original_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/b6cabe1940c55119820eee4ed2d0b604bd5b3af4/library_600x900.jpg?t=1789453342",
+    "downloaded_from": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/b6cabe1940c55119820eee4ed2d0b604bd5b3af4/library_600x900.jpg?t=1789453342",
     "source_page": "https://store.steampowered.com/app/2062430/"
   },
   {
@@ -347,5 +347,12 @@
     "original_url": "https://resizing.flixster.com/SqtWnclwSi7RfTFtDzz4idtFhVk=/206x305/v2/https://resizing.flixster.com/9I-SYQI9qGdwhpdZlop3Cr7d9Hw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M1NTNmNzBiLTgxOWQtNGE1Mi05ZTFhLTRjNWQzMmJlNTVmNi5qcGc=",
     "downloaded_from": "https://resizing.flixster.com/SqtWnclwSi7RfTFtDzz4idtFhVk=/206x305/v2/https://resizing.flixster.com/9I-SYQI9qGdwhpdZlop3Cr7d9Hw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M1NTNmNzBiLTgxOWQtNGE1Mi05ZTFhLTRjNWQzMmJlNTVmNi5qcGc=",
     "source_page": "https://www.rottentomatoes.com/m/apex_2026"
+  },
+  {
+    "file": "ratchet-clank-rift-apart-2021-2026.jpg",
+    "title": "Ratchet & Clank: Rift Apart (2021)-2026",
+    "original_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1895880/library_600x900.jpg",
+    "downloaded_from": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1895880/library_600x900.jpg",
+    "source_page": "https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/"
   }
 ]
