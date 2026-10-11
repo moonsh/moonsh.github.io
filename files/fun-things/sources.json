@@ -316,9 +316,9 @@
   {
     "file": "ball-x-pit-2025-2025.jpg",
     "title": "Ball x Pit (2025)-2025",
-    "original_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/b6cabe1940c55119820eee4ed2d0b604bd5b3af4/library_600x900.jpg?t=1789453342",
-    "downloaded_from": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/b6cabe1940c55119820eee4ed2d0b604bd5b3af4/library_600x900.jpg?t=1789453342",
-    "source_page": "https://store.steampowered.com/app/2062430/"
+    "original_url": "https://store-images.s-microsoft.com/image/apps.65421.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.9ca9b47c-fe5e-416f-b0d8-585389838713",
+    "downloaded_from": "https://store-images.s-microsoft.com/image/apps.65421.13835016463632115.666396b5-f6e8-4a0a-ae87-81ee6b77084a.9ca9b47c-fe5e-416f-b0d8-585389838713",
+    "source_page": "https://isthereanydeal.com/game/ball-x-pit/assets/"
   },
   {
     "file": "hope-2026-2026.jpg",
@@ -354,5 +354,26 @@
     "original_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1895880/library_600x900.jpg",
     "downloaded_from": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1895880/library_600x900.jpg",
     "source_page": "https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/"
+  },
+  {
+    "file": "avatar-3-2025-2026.jpg",
+    "title": "Avatar 3 (2025)-2026",
+    "original_url": "https://resizing.flixster.com/Zg79Hf7N8bosC-b6ffErN25YVco=/206x305/v2/https://resizing.flixster.com/Pq8B1yv0h4jocOwrukzjlvcdQDQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlNjBlZDhkLTg3NjItNDgzNy05OWYyLTE4ODI0MjBmMGU0OC5qcGc=",
+    "downloaded_from": "https://resizing.flixster.com/Zg79Hf7N8bosC-b6ffErN25YVco=/206x305/v2/https://resizing.flixster.com/Pq8B1yv0h4jocOwrukzjlvcdQDQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlNjBlZDhkLTg3NjItNDgzNy05OWYyLTE4ODI0MjBmMGU0OC5qcGc=",
+    "source_page": "https://www.rottentomatoes.com/m/avatar_fire_and_ash"
+  },
+  {
+    "file": "the-odyssey-2026-2026.jpg",
+    "title": "The Odyssey (2026)-2026",
+    "original_url": "https://resizing.flixster.com/fAkkN7VTQZUvKIiAm4g0R_ltt_4=/206x305/v2/https://resizing.flixster.com/A6I9ex8FRe7tDW-mI3eP3tx_HmE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyOGVlMzAxLThhN2ItNGYyMy04NzdjLTYyNTEyMDRmYTQzOS5qcGc=",
+    "downloaded_from": "https://resizing.flixster.com/fAkkN7VTQZUvKIiAm4g0R_ltt_4=/206x305/v2/https://resizing.flixster.com/A6I9ex8FRe7tDW-mI3eP3tx_HmE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyOGVlMzAxLThhN2ItNGYyMy04NzdjLTYyNTEyMDRmYTQzOS5qcGc=",
+    "source_page": "https://www.rottentomatoes.com/m/the_odyssey_2026"
+  },
+  {
+    "file": "resident-evil-2026-2026.jpg",
+    "title": "Resident Evil (2026)-2026",
+    "original_url": "https://resizing.flixster.com/SIJZ8fMowXFZCsOCsDmPIeTpN3c=/206x305/v2/https://resizing.flixster.com/BbrMw3gKnkAm02-ECbEW8n83Z1g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlMDI1M2MyLTViMDgtNDRhYi1hNjJkLTEwMWIyYzU1MmVjZi5qcGc=",
+    "downloaded_from": "https://resizing.flixster.com/SIJZ8fMowXFZCsOCsDmPIeTpN3c=/206x305/v2/https://resizing.flixster.com/BbrMw3gKnkAm02-ECbEW8n83Z1g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlMDI1M2MyLTViMDgtNDRhYi1hNjJkLTEwMWIyYzU1MmVjZi5qcGc=",
+    "source_page": "https://www.rottentomatoes.com/m/resident_evil_2026"
   }
 ]
